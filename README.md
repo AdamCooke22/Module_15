@@ -35,7 +35,7 @@ from dateutil.relativedelta import relativedelta
 To view the bot in action you can click on the "RECORDING" link below, and to view the testing of the lamda function you can view the test cases in the "SCREENSHOTS" link below.
 
 
-* [SCREENSHOTS](https://github.com/AdamCooke22/module_1r/tree/main/screenshots) 
+* [SCREENSHOTS](https://github.com/AdamCooke22/module_15/tree/main/screenshots) 
 * [RECORDING](https://github.com/AdamCooke22/Module_15/blob/main/Amazon%20Lex%20-%20Google%20Chrome%202022-10-11%2000-16-27.mp4) 
 
 ## Contributors
